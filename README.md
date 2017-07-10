@@ -1,1 +1,1 @@
-Hello GL Worldcd TestFolder/TestGit!
+Readme file for conflict
