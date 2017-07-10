@@ -3,5 +3,6 @@
  */
 public class Main {
     private int number = 5;
-    private String test = "test";
+    private String test = "testgit";
+    private double positionX = 0.013d;
 }
