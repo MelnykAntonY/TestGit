@@ -9,5 +9,10 @@ public class Main {
     private String concat(String s, double d){
         String concatStr = s + d;
         return concatStr;
+
+    }
+
+    private static void doSome(){
+        System.out.println(new Main().concat("Number", 0.0456));
     }
 }
