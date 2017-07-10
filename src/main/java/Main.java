@@ -3,4 +3,5 @@
  */
 public class Main {
     private int number = 5;
+    private String test = "test";
 }
