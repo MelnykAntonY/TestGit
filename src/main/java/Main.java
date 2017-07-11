@@ -10,6 +10,8 @@ public class Main {
 
     private int x =6;
 
+    private String name = "";
+
     public int getNumber() {
         return number;
     }
